@@ -10,7 +10,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Aecio09&theme=dracula&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+## 📈 Atividade de Commits
+
+![Contribuições do GitHub](https://github-contributions-api.deno.dev/Aecio09.svg)
+
 
 
 <!--
