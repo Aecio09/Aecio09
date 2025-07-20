@@ -10,10 +10,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
-## 📊 GitHub Stats:
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=Aecio09&show_icons=true&theme=radical)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Aecio09&theme=dracula&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 <!--
 **Aecio09/Aecio09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
