@@ -10,9 +10,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
-## 📈 Atividade de Commits
+## 📅 Atividade de Commits
 
-![Contribuições do GitHub](https://github-contributions-api.deno.dev/Aecio09.svg)
+![Gráfico de Contribuições](https://github.com/aecio-barbosa/Aecio09/blob/main/profile-activity.svg)
+
 
 
 
