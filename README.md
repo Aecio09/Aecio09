@@ -12,7 +12,7 @@
 
 ## 📅 Atividade de Commits
 
-![Gráfico de Contribuições](https://github.com/aecio-barbosa/Aecio09/blob/main/profile-activity.svg)
+![Gráfico de Contribuições](https://github.com/Aecio09/Aecio09/blob/main/profile-activity.svg)
 
 
 
