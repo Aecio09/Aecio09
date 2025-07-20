@@ -11,7 +11,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
 ## 📊 GitHub Stats:
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=aecio-barbosa&show_icons=true&theme=radical)
+![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=Aecio09&show_icons=true&theme=radical)
 
 ---
 
