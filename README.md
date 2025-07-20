@@ -1,5 +1,6 @@
-## Hi there 👋
-# 👋 Olá! Eu sou o Aécio Barbosa
+## Hi there
+# Eu sou o Aécio Barbosa
+# Sou um estudante
 
 
 
