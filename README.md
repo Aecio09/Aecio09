@@ -1,6 +1,7 @@
 ## Hi there
-# Eu sou o Aécio Barbosa
-# Sou um estudante
+# I am Aécio Barbosa
+# I am a student of the curso Tecnologia em Sistemas Para Internet at IFPE
+
 
 
 
