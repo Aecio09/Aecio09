@@ -1,0 +1,15 @@
+name: Atualizar último commit
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # atualiza a cada 30 minutos
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Atualizar commit
+        uses: actions-cool/last-commit@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
