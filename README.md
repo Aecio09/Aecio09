@@ -1,6 +1,6 @@
 ## Hi there
 # I am Aécio Barbosa
-# I am a student of the curso Tecnologia em Sistemas Para Internet at IFPE
+# I am a student of the course Tecnologia em Sistemas Para Internet at IFPE
 
 
 
